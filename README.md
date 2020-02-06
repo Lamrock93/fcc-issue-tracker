@@ -1,2 +1,11 @@
-# fcc-issue-tracker
-Issue Tracker for freeCodeCamp's Information Security and Quality Assurance certification. This project employs Express, NodeJS, MongoDB, Chai and Helmet and was made using the Glitch platform. It allows users to post issues, change parameters, remove/check off issues and view an array of all of them.  Using Chai, the issue tracker validates that it's working property via 11 test scenarios.
+**FreeCodeCamp**- Information Security and Quality Assurance
+------
+
+Project Issue Tracker
+
+1) SET NODE_ENV to `test` without quotes and set DB to your mongo connection string in .env file
+2) Complete the project in `routes/api.js` or by creating a handler/controller
+3) You will add any security features to `server.js`
+4) You will create all of the functional tests in `tests/2_functional-tests.js`
+
+
